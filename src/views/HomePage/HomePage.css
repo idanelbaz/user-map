@@ -1,0 +1,10 @@
+.page-header {
+    padding: 30px;
+    text-align: center;
+}
+
+.map-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
